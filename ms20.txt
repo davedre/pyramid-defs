@@ -1,0 +1,3 @@
+NAME: MS20
+OUT: A
+CHANNEL: 5
